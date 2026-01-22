@@ -1,4 +1,4 @@
-# Passion-project1
+# Python Skills
 Just for fun
 
 The data is sourced from Kaggle https://doi.org/10.34740/kaggle/dsv/14111592
